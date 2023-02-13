@@ -1,7 +1,7 @@
 <script setup lang="ts">
   import { ref, Ref } from 'vue';
   import axios from 'axios';
-  import {extractCouponCode, extractCourseName} from './composables/urls.ts'
+  import {extractCouponCode, extractCourseName} from './composables/urls'
   import InputField from './components/InputField.vue';
   import ResultsArea from './components/ResultsArea.vue';
 
