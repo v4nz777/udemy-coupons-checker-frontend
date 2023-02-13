@@ -21,3 +21,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 ## Installation and Usage
 - run `npm install` to install dependencies
 - run `npm run dev` to run development mode
+- Follow this link to connect to the server https://github.com/v4nz777/udemy-coupons-checker-backend.git
