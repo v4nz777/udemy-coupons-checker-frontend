@@ -11,7 +11,7 @@ const app = createApp(App)
 // Add axios
 // axios.defaults.baseURL = 'https://www.udemy.com/api-2.0';
 // axios.defaults.headers.common['User-Agent'] = 'PostmanRuntime/7.29.0'
-axios.defaults.baseURL = 'http://localhost:8000/'
+axios.defaults.baseURL = 'https://udemy-coupons-checker.rj.r.appspot.com/' //Google cloud server
 app.use(VueAxios, axios)
 
 app.mount('#app')
